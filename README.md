@@ -1,6 +1,6 @@
 SilverSrc
 ======================
-SilverSrc engine. Takes advantage of 64 bit systems. (MAY) include a custom SDK. Many limits have been removed. Half-Life 2, Portal, Team Fortress 2 and Left 4 Dead are being imported to this engine. In a nutshell: GoldSrc engine with Source engine abilities, but still being able to run on 1963 computers. 
+SilverSrc engine. Takes advantage of 64 bit systems. Many limits have been removed. Half-Life 2, Portal, Team Fortress 2 and Left 4 Dead are being imported to this engine. In a nutshell: GoldSrc engine with Source engine abilities, but still being able to run on 1963 computers. 
 
 Half Life 1 SDK LICENSE
 ======================
