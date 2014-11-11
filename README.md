@@ -1,22 +1,6 @@
-HoldSrc
+SilverSrc
 ======================
-HoldSrc (originally GoldSource 2 or "Silversrc") is a fork of Valve's GoldSource engine. It is made for Multiplayer games, as many improvements are around Multiplayer Games.
-It includes:
- Better Multiplayer
-  Less lag
-  HQ voice chat, with small size.
-  Log everything, voice chats, etc in a ZIP file after exiting the game.
- Source (engine) demos
-  Move to a different point in demos and smooth them.
- Store games in a .vpk like format, compressed.
-  Smaller size
-  May require manual compression for Steam games
- Holdcheat
-  Custom anticheat.
-  Overwatch-like feature from CS:GO
-  No delayed bans (like a CERTAIN ANTICHEAT)
-  
-Whenever I manage to do these, i'll post. For now it's just a list of ideas.
+SilverSrc engine. Takes advantage of 64 bit systems. (MAY) include a custom SDK. Many limits have been removed. Half-Life 2, Portal, Team Fortress 2 and Left 4 Dead are being imported to this engine. In a nutshell: GoldSrc engine with Source engine abilities, but still being able to run on 1963 computers. 
 
 Half Life 1 SDK LICENSE
 ======================
